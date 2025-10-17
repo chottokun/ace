@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+.deepeval
 *.egg-info/
 .installed.cfg
 *.egg
@@ -217,3 +218,6 @@ __marimo__/
 
 # ドキュメント
 Docs/
+
+# ChromaDB データベース
+chroma_db/

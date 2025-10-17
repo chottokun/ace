@@ -1,10 +1,10 @@
 # ACEフレームワークを活用したRAGシステムの単なるお試し
 
 ## 0. 参考文献
+- 参考にさせていただきました。本レポジトリは論文内容を再現するものではありません。参考にして勉強のために自分なりに実装したものです。
 
 **Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models**
 - Qizheng Zhang, Changran Hu, Shubhangi Upasani, Boyuan Ma, Fenglu Hong, Vamsidhar Kamanuru, Jay Rainton, Chen Wu, Mengmeng Ji, Hanchen Li, Urmish Thakker, James Zou, Kunle Olukotun
-
 - https://arxiv.org/html/2510.04618v1
 
 ## 1. 概要
