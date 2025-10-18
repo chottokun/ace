@@ -221,3 +221,5 @@ Docs/
 
 # ChromaDB データベース
 chroma_db/
+
+temp_docs/
